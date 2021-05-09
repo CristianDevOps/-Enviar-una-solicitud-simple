@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- ARCHIVO DE CONFIGURACIÓN SEGURO Y DECLARATIVO -->
+
+<network-security-config>
+    <!-- Personalizar las conexiones de seguridad de la apps | mediante base-config -->
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <!-- HOST SIN CERTIFICADO(CA) NI CUYOS SSL EMITIDOS POR (CA) PRIVADAS  -->
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
