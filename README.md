@@ -3,7 +3,7 @@ Enviar una solicitud mediante el método de conveniencia Volley.newRequestQueue,
 
 ## Requerimientos: 
 
- - Permiso de INTERNET: Para usar Volley, debes agrefar el permiso
+ - Permiso de INTERNET: Para usar Volley, debes agregar el permiso
    android.permission.INTERNET al manifiesto de tu app. Sin este
    permiso, tu app no podrá conectarse a la red.
    
