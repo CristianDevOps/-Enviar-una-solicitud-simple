@@ -2,6 +2,7 @@
 
 **Este proyecto desarrollado esta hecho para un ambito personal y originalmente ser una retroalimentación** entre desarrolladores de Android y Java. Este oroyecto esta realizado por [@CristianDevOps](https://www.facebook.com/cristian.va.5688/). con las intenciones auténtica de aprender el lenguaje **Java-Android(Android Studio SDK,API, BIBLOTECA HTTP)** y a la par, realizar procesos aplicable, que puedan ser compartidos y utilizados con la finalidad de compartir conocimientos sobre programación.
 
+
 ## Caso de uso compatible🤖
 
 **- Envía una solicitud simple:** mediante el método de conveniencia Volley.newRequestQueue, que configura una RequestQueue por ti, mediante valores predeterminado de Volley (comportamiento original).
@@ -15,7 +16,8 @@
 
 ## Estado del proyecto📈
 
-**Este proyecto se encuentra en DESARROLLO** actualmente es un **test unitario.**
+**Este proyecto se encuentra en DESARROLLO** actualmente es un **test unitario**.
+
 
 ## Directrices de codificación
 
@@ -24,9 +26,10 @@ documentación oficial, en la qué parte este test unitario y las prácticas:
 
 https://developer.android.com/training/volley/simple?hl=es
 
-Incorpore **tabnine**: https://www.tabnine.com/ cómo asistente de autocompletado de código, impulsado con IA GPT-2. 
+Incorpore el plugin **tabnine** en Android Studio: https://www.tabnine.com/ cómo asistente de autocompletado de código, impulsado con IA GPT-2. 
 
-**Nota: el formato de código y el estilo perfecto están fuera de nuestras implementaciones, por el momento**
+**Nota: el formato de código y el estilo perfecto están fuera de nuestras implementaciones, por el momento**.
+
 
 ## Requerimientos🚧
 
@@ -55,10 +58,10 @@ Incorpore **tabnine**: https://www.tabnine.com/ cómo asistente de autocompletad
     </base-config>
 </network-security-config>
   ```
+
+
 ## Contribuciones👥
 
 Si quieres dar algún comentario, sobre un problema, Adradezco los comentarios y sugerencias. Tenga en cuenta qué este proyecto es un test unitario independiente.
  
 Actualmente, SI ACEPTO CONTRIBUCIONES DE CÓDIGO(Solicitudes de extracción). Además como se encuentra en un estado de desarrollo, puedes alojar tús comentarios sobre el sistema actual.
-
-  
