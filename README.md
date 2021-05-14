@@ -3,7 +3,7 @@ Enviar una solicitud mediante el método de conveniencia Volley.newRequestQueue,
 
 ## Caso de uso compatible: 🤖
 
-Este proyecto desarrollado para un ambito personal y originalmente ser una retroalimentación entre desarrolladores de software, proyecto hecho por [@CristianDevOps](https://www.facebook.com/cristian.va.5688/).
+**Este proyecto desarrollado para un ambito personal y originalmente ser una retroalimentación** entre desarrolladores de software, proyecto hecho por [@CristianDevOps](https://www.facebook.com/cristian.va.5688/).
 
 ## Requerimientos: ⭐
 
