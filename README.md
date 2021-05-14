@@ -5,7 +5,7 @@ Enviar una solicitud mediante el método de conveniencia Volley.newRequestQueue,
 
 **Este proyecto desarrollado para un ambito personal y originalmente ser una retroalimentación** entre desarrolladores de software, proyecto hecho por [@CristianDevOps](https://www.facebook.com/cristian.va.5688/).
 
-## Requerimientos: ⭐
+## Requerimientos⭐: 
 
  - Permiso de INTERNET: Para usar Volley, debes agregar el permiso
    android.permission.INTERNET al manifiesto de tu app. Sin este
