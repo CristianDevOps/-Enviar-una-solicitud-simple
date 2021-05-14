@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 
 <!-- ARCHIVO DE CONFIGURACIÓN SEGURO Y DECLARATIVO -->
 
@@ -7,7 +6,7 @@
     <base-config cleartextTrafficPermitted="true">
         <trust-anchors>
             <!-- HOST SIN CERTIFICADO(CA) NI CUYOS SSL EMITIDOS POR (CA) PRIVADAS  -->
-            <certificates src="system" />
+            <certificates src="system" /> <!-- PARA LOS CERTIFICADOS (CA) PREINSTALADOS DEL SISTEMA-->
         </trust-anchors>
     </base-config>
 </network-security-config>
