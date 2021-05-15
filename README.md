@@ -1,6 +1,6 @@
 # Simple request🧠
 
-**Este proyecto desarrollado esta hecho para un ambito personal y originalmente ser una retroalimentación** entre desarrolladores de Android y Java. Este proyecto esta realizado por [@CristianDevOps](https://www.facebook.com/cristian.va.5688/). con las intenciones auténtica de aprender el lenguaje **Java-Android(Android Studio SDK,API, BIBLOTECA HTTP)** y a la par, realizar procesos aplicable, que puedan ser compartidos y utilizados con la finalidad de compartir conocimientos sobre programación.
+**Este proyecto desarrollado esta hecho para un ambito personal y originalmente ser una retroalimentación** entre desarrolladores de Android y Java. Este proyecto esta realizado por [@CristianDevOps](https://github.com/CristianDevOps). con las intenciones auténtica de aprender el lenguaje **Java-Android(Android Studio SDK,API, BIBLOTECA HTTP)** y a la par, realizar procesos aplicable, que puedan ser compartidos y utilizados con la finalidad de compartir conocimientos sobre programación.
 
 
 ## Caso de uso compatible🤖
