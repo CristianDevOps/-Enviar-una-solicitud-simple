@@ -29,7 +29,7 @@ documentación oficial, en la qué parte este test unitario y las prácticas:
 
 [Página oficial de Android Studio - Volley](https://developer.android.com/training/volley/simple?hl=es)
 
-Incorpore el plugin **tabnine** en Android Studio: [Página oficial](https://www.tabnine.com/) cómo asistente de autocompletado de código, impulsado con IA GPT-2. 
+Incorpore el plugin **tabnine** en Android Studio: [página oficial](https://www.tabnine.com/) cómo asistente de autocompletado de código, impulsado con IA GPT-2. 
 
 **Nota: el formato de código y el estilo perfecto están fuera de nuestras implementaciones, por el momento**.
 
