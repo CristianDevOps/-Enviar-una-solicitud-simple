@@ -25,7 +25,7 @@ Este proyecto esta realizado por [@CristianDevOps](https://github.com/CristianDe
 ## Directrices de codificación🔨
 
 La intención es seguir las mejores prácticas de Android Studio. Visite su 
-documentación oficial, en la qué parte este test unitario y las prácticas:
+documentación oficial, en la qué parte esta guía y las prácticas aplicadas:
 
 [Página oficial de Android Studio - Volley](https://developer.android.com/training/volley/simple?hl=es)
 
