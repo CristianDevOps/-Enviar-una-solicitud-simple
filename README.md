@@ -16,7 +16,7 @@
 
 ## Estado del proyecto📈
 
-**Este proyecto se encuentra en DESARROLLO** actualmente es un **test unitario**.
+**Este proyecto se encuentra en DESARROLLO** actualmente es una **guía para desarrolladores**.
 
 
 ## Directrices de codificación🔨
@@ -62,6 +62,7 @@ Incorpore el plugin **tabnine** en Android Studio: https://www.tabnine.com/ cóm
 
 ## Contribuciones👥
 
-Si quieres dar algún comentario, sobre un problema, Adradezco los comentarios y sugerencias. Tenga en cuenta qué este proyecto es un test unitario independiente.
+Si quieres dar algún comentario, sobre un problema, Adradezco los comentarios y sugerencias. Tenga en cuenta qué este proyecto es una guía independiente.
  
 Actualmente, SI ACEPTO CONTRIBUCIONES DE CÓDIGO(Solicitudes de extracción). Además como se encuentra en un estado de desarrollo, puedes alojar tús comentarios sobre el sistema actual.
+
