@@ -8,11 +8,11 @@ Este proyecto esta realizado por [@CristianDevOps](https://github.com/CristianDe
 
 ## Caso de uso compatible🤖
 
-**- Envía una solicitud simple:** mediante el método de conveniencia Volley.newRequestQueue, que configura una RequestQueue por ti, mediante valores predeterminado de Volley (comportamiento original).
+**- Envía una solicitud simple:** mediante el método de conveniencia Volley.newRequestQueue, que configura una RequestQueue por ti, mediante valores predeterminados de Volley (comportamiento original).
 
-**- Configuración de opciones de seguridad de red:** Habilitado el trafico de cleartText; admite conexiones host sin certificado autoafirmados particulares, o sin autoridades de certificación (CA).
+**- Configuración de opciones de seguridad de red:** Habilita el trafico de cleartText; admite conexiones host sin certificado autoafirmados particulares, o sin autoridades de certificación (CA).
 
-**- Cancelar solicitudes:** El sistema garantizará qué nunca se llame a el controlador de respuestas. Lo que en práctica significa es qué puedes cancelar todas las solicitudes pentiendes en el método onStop() de tu actividad, o puedes hacerlo manualmente a través de la selección 'CANCELAR  SOLICITUD'. 
+**- Cancelar solicitudes:** El sistema garantizará qué nunca se llame a el controlador de respuestas. Lo que en práctica significa qué puedes cancelar todas las solicitudes pentiendes en el método onStop() de tu actividad, o puedes hacerlo manualmente a través de la selección 'CANCELAR  SOLICITUD'. 
 
 **- Consume un Web Services de Google:** A través de la creación de solicitud de respuesta de cadena, de la URL proporcionada. Y luego mostras los primeros 500 caracteres de la cedena de respuesta.
 
