@@ -40,12 +40,13 @@
     <ScrollView
         android:layout_width="400dp"
         android:layout_height="200dp">
+
         <TextView
             android:id="@+id/tv_response"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="" />
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium" />
     </ScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

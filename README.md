@@ -19,7 +19,7 @@
 **Este proyecto se encuentra en DESARROLLO** actualmente es un **test unitario**.
 
 
-## Directrices de codificación
+## Directrices de codificación🔨
 
 La intención es seguir las mejores prácticas de Android Studio. Visite su 
 documentación oficial, en la qué parte este test unitario y las prácticas:
